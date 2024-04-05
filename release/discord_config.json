@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "name": "Server1",
+      "ip_address": "", 
+      "port": 22,
+      "username": "",
+      "password": "",
+      "script_folder": "/home/aim",
+      "script": "binmaster-slayer-linux",
+      "script_path": "/home/aim/binmaster-slayer-linux",   //Change everything with the path from ur binmaster if u don't it won't work
+      "config_file": "/home/aim/config.json",
+      "user_id": "ur user id",
+      "restart_interval": "1h",
+      "path_to_server_logs": "/home/aim/logs/"
+    }
+
+  ],
+  "target_guild_id": "guild id (Server id)",
+  "target_channel_id": "Channel id where the bot should react",
+  "token": "discord token"
+}
