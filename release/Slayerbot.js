@@ -523,7 +523,7 @@ monitorServerEvents();
 
 
 function restartAllScriptsSequentially(message) {
-    const channel = client.channels.cache.get(config.target_channel_id);
+    const channel = client.channels.cache.get(config.Restart_msg_channel);
     const servers = config.servers.slice(); 
 
  
