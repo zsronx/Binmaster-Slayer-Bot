@@ -8,7 +8,7 @@ npm install cron
 To start the discord bot or screen it on ur vps just do
 screen node Slayerbot.js
 
-If u need help add me on discord : shrek132_
+If u need help add me on discord : zsronx
 
 Thanks for using my discord bot - I will let you know if I updated something
 If u need help setting up the bot
